@@ -8,7 +8,7 @@ A **python tool** to scan and map the packets of your currently network
 
 
 <img width="570" height="337" alt="Screen-Interface-Choose" src="https://github.com/user-attachments/assets/77fa07a1-74b9-4a38-8bc3-32bf8816cd6f" />
-<img width="1037" height="625" alt="Screen-Map" src="https://github.com/user-attachments/assets/2ce1128a-16ba-4849-80fb-e081b5a6c3c5" />
+<img width="570" height="337" alt="Screen-Map" src="https://github.com/user-attachments/assets/2ce1128a-16ba-4849-80fb-e081b5a6c3c5" />
 
 
 ---
