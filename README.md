@@ -1,4 +1,4 @@
-# Network-Mapper - Open Source
+# 📍 Network-Mapper - Open Source
 
 A **python tool** to scan and map the packets of your currently network
 
@@ -18,7 +18,7 @@ A **python tool** to scan and map the packets of your currently network
 
 ```bash
 git clone https://github.com/0xFFCyber/Network-Mapper.git
-cd Network-Map
+cd Network-Mapper
 pip install -r requirements.txt
 sudo python3 main.py 
 ```
